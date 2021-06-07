@@ -766,36 +766,36 @@ line-height: 100px;
 
          /* Image for Parallax Section */
 .paralsec1 {
-background-image: url(../Lesson3/pics/sec1.jpg);
+background-image: url(../lesson3/pics/sec1.jpg);
 }
 
 
 .paralsec2 {
-background-image: url(../Lesson3/pics/sec2.jpg);
+background-image: url(../lesson3/pics/sec2.jpg);
 }
 
 .paralsec3 {
-background-image: url(../Lesson3/pics/sec3.jpg);
+background-image: url(../lesson3/pics/sec3.jpg);
 }
   .paralsec4 {
-background-image: url(../Lesson3/pics/sec4.jpg);
+background-image: url(../lesson3/pics/sec4.jpg);
 }
 
 .paralsec5 {
-background-image: url(../Lesson3/pics/sec5.jpg);
+background-image: url(../lesson3/pics/sec5.jpg);
 }
 
 .paralsec6 {
-background-image: url(../Lesson3/pics/sec6.jpg);
+background-image: url(../lesson3/pics/sec6.jpg);
 }
 
 .paralsec7 {
-background-image: url(../Lesson3/pics/sec7a.jpg);
+background-image: url(../lesson3/pics/sec7a.jpg);
   }
 
 
  .paralsec8 {
-background-image: url(../Lesson3/pics/sec8.jpg);
+background-image: url(../lesson3/pics/sec8.jpg);
 }
 
  @media (max-width: 768px){
